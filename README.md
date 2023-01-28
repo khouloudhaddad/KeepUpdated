@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+/************** Steps to reproduce the project ***********/
+1- Create app through => ng new <appName> (Select Router + SCSS)
+2- Add Angular Material => ng add @angular/material
