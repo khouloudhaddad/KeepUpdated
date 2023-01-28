@@ -40,4 +40,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
             @tailwind utilities;
   to styles.scss
  -  Add "./src/**/*.{html,ts}" to tailwind.config.js
+ 
 4- Get API Key from https://newsapi.org/
