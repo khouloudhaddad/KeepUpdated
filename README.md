@@ -39,4 +39,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
             @tailwind components;
             @tailwind utilities;
   to styles.scss
+ -  Add "./src/**/*.{html,ts}" to tailwind.config.js
 4- 
