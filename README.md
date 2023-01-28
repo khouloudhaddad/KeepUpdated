@@ -29,16 +29,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 /--------------- Steps to reproduce the project -------------------/<br/>
 
-1- Create app through => ng new <appName> (Select Router + SCSS)
-2- Add Angular Material => ng add @angular/material
-3- Install Tailwind:
+1- Create app through => ng new <appName> (Select Router + SCSS)<br/>
+2- Add Angular Material => ng add @angular/material<br/>
+3- Install Tailwind:<br/>
  - npm install -D tailwindcss postcss autoprefixer
  - npx tailwindcss init
  - Import 
             @tailwind base;
             @tailwind components;
             @tailwind utilities;
-  to styles.scss
+  to styles.scss<br/>
  -  Add "./src/**/*.{html,ts}" to tailwind.config.js
- 
+
 4- Get API Key from https://newsapi.org/
