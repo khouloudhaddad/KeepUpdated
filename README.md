@@ -30,3 +30,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 /************** Steps to reproduce the project ***********/
 1- Create app through => ng new <appName> (Select Router + SCSS)
 2- Add Angular Material => ng add @angular/material
+3- Install Tailwind:
+ - npm install -D tailwindcss postcss autoprefixer
+ - npx tailwindcss init
+ - Import 
+            @tailwind base;
+            @tailwind components;
+            @tailwind utilities;
+  to styles.scss
+4- 
